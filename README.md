@@ -1,1 +1,1 @@
-https://cc.nolhan.fr/v1
+http://cc.nolhan.fr/v1
