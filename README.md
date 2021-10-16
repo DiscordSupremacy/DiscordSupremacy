@@ -1,1 +1,1 @@
-https://cc.nolhan.fr/v1
+https://update.bluck-adventure.com/v1
